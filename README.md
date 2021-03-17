@@ -1,4 +1,4 @@
-# CAM_Grad-CAM_tutorial
+# CAM & Grad-CAM Tutorial
 CAM/Grad-CAM tutorial using Pytorch 
 
 
